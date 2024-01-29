@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/liusean/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/liusean/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/liusean/Downloads/InfiniteMatrixStarter/Content/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/liusean/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/liusean/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/liusean/Downloads/InfiniteMatrixStarter/Content/Blueprints/ScoreWidget.uasset",
+				"/Users/liusean/Downloads/InfiniteMatrixStarter/Content/Blueprints/HPWidget.uasset",
+				"/Users/liusean/Downloads/InfiniteMatrixStarter/Content/Blueprints/NumWidget.uasset",
+				"/Users/liusean/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HPWidget.uasset"
+			]
+		}
+	]
+}
